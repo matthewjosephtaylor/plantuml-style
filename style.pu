@@ -70,3 +70,8 @@ skinparam sequence {
 	ParticipantBorderColor Black
 	BoxLineColor Black
 }
+
+skinparam interface {
+	BackgroundColor White
+	BorderColor Black
+}
